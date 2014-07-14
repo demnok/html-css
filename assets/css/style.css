@@ -1,0 +1,96 @@
+.header .navbar-nav.navbar-right:last-child{
+	margin-right: 0;
+}
+.header{
+	width:600px;
+	margin: 0 auto;
+}
+
+.header ul{
+		margin: 35px 0 50px 0;
+}
+
+.header ul li a{
+	font-size: 30px;
+}
+
+.article{
+	height:300px;
+	border-bottom: 1px solid whitesmoke;
+	position: relative;
+	margin:25px 0;
+}
+
+.articles nav{
+}
+
+.articles nav ul{
+	width:100%;
+}
+
+.articles nav ul li{
+	text-align: center;
+}
+
+.articles h2{
+	margin-top: 50px;
+	text-align: center;
+}
+
+.panel h1{
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.panel li{
+	margin: 7px 0 7px 0;
+	list-style-type: none;
+}
+
+.content > .row{
+	margin:0;
+}
+
+.date{
+	position: absolute;
+	bottom: 0;
+}
+/* footer */
+
+footer {
+	height:60px;
+  margin-top: 45px;
+  padding-top: 5px;
+  border-top: 1px solid #eaeaea;
+  color: #999;
+}
+
+footer a {
+  color: #555;
+}
+
+footer a:hover {
+  color: #222;
+}
+
+footer small {
+	margin-left: 20px;
+  float: left;
+}
+
+footer ul {
+	margin-right: 30px;	
+  float: right;
+  list-style: none;
+}
+
+footer ul li {
+  float: left;
+  margin-left: 10px;
+}
+
+footer a{
+	font-size: 20px;
+	line-height: 2.4;
+	color: white;
+}
